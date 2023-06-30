@@ -2,7 +2,7 @@
 
 ## Índice
 
-O Add-In “Import and Update Access” é uma ferramenta que permite integrar o excel e o access de forma simples e eficiente. Com ele, você pode importar pastas com vários arquivos para o access e atualizar as tabelas automaticamente, sem precisar abrir o programa.
+O Add-In “Importar e Atualizar Access ptbr” é uma ferramenta que permite integrar o excel e o access de forma simples e eficiente. Com ele, você pode importar pastas com vários arquivos para o access e atualizar as tabelas automaticamente, sem precisar abrir o programa.
 
 O Add-In é ideal para quem trabalha com grandes volumes de dados, fazendo com que seja possível acessar os dados no excel de forma rápida e organizada, reduzindo o tamanho dos seus arquivos excel e adicionando agilidade e praticidade na hora de analisá-los.
 
