@@ -6,7 +6,7 @@ O Add-In “Importar e Atualizar Access ptbr” é uma ferramenta que permite in
 [Instalação do Add-In](https://github.com/ViniPMartins/AddIn-Import-and_Update_Access/blob/main/doc_/Instalacao_do_AddIn.md)
 
 - Para saber como usar e um exemplo prático, veja esse tópico:
-[Como usar e Funcionalidades do AddIn.md](https://github.com/ViniPMartins/AddIn-Import-and_Update_Access/blob/main/doc_/Como_usar_e_Funcionalidades_do_AddIn.md)
+[Como usar e Funcionalidades do AddIn](https://github.com/ViniPMartins/AddIn-Import-and_Update_Access/blob/main/doc_/Como_usar_e_Funcionalidades_do_AddIn.md)
 
 - Alguns detalhes da implementação que podem ajudar estão neste artigo:
 [Detalhes Técnicos de Implementação](https://github.com/ViniPMartins/AddIn-Import-and_Update_Access/blob/main/doc_/Detalhes_Tecnicos_de_Implementacao.md)
