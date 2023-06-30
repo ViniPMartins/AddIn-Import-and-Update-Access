@@ -1,0 +1,5 @@
+﻿Mode de Importação,Tamanho do arquivo Excel,Tamanho Arquivo Access,Complexidade na importação,Tempo de Atualização
+Power Query,34 KB,930 MB,Baixa Complexidade,Médio
+Microsoft Query (SQL),31 KB,930 MB,Alta Complexidade,Médio
+Consulta do Access (SQL),29 KB,930 MB,Média Complexidade,Médio
+Importação Direta,35 KB,0,Média Complexidade,Alto
