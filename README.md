@@ -10,3 +10,5 @@ O Add-In “Importar e Atualizar Access ptbr” é uma ferramenta que permite in
 
 - Alguns detalhes da implementação que podem ajudar estão neste artigo:
 [Detalhes Técnicos de Implementação](https://github.com/ViniPMartins/AddIn-Import-and_Update_Access/blob/main/doc_/Detalhes_Tecnicos_de_Implementacao.md)
+
+- Todo o código implementado está na pasta [VBA](VBA), na mesma estura do VBA do excel, para caso deseje importar os módulos e userforms ao invés de instalar o Add-In.
