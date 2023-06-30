@@ -62,7 +62,7 @@ Para mais detalhes sobre essa implementação, veja:
 
 Vamos ver a tela de importação, onde estarão as principais funcionalidades:
 
-![Janela de importação](../doc_/imgs_como_usar/Janela_importacao.png)
+![Janela_importacao](../doc_/imgs_como_usar/Janela_importacao.png)
 
 Janela de importação
 
