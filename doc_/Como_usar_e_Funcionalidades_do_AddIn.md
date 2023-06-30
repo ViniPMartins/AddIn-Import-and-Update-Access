@@ -123,13 +123,13 @@ Dentro da pasta “content” haverá 6 arquivos excel com dados meteorológicos
 
 Com os arquivos na pasta, podemos abrir o arquivo “Analises.xlsx” para iniciar. Em seguida, vamo clicar no ícone do Add-In que foi instalado. No meu caso, colquei na guia “Desenvolverdor”, no grupo “Add-Ins”.
 
-![imagem guia desenvolvedor](../doc_/imgs_instalacao/guia_desenvolvedor.png)
+![imagem_guia_desenvolvedor](../doc_/imgs_instalacao/guia_desenvolvedor.png)
 
 Ao clicar, irá aparecer a janela conforme demonstrado no tópico [Iniciando uma conexão com o arquivo Access](#iniciando-uma-conexão-com-o-arquivo-access). Ao clicar em sim, navego até a pasta onde está localizado o arquivo Access, seleciono ele e clico em “OK”. 
 
 O programa irá iniciar a conexão com o arquivo Access, e com a conexão sendo bem sucedida, irá abrir a janela de importação.
 
-![Janela de importação](../doc_/imgs_como_usar/Janela_importacao.png)
+![Janela_de_importacao](../doc_/imgs_como_usar/Janela_importacao.png)
 
 Janela de importação
 
@@ -139,15 +139,15 @@ Neste exemplo, quero importar e combinar em uma única tabela todos os arquivos 
 
 Em seguida, vou selecionar o destino destes arquivos. Então, no segundo quadro, escolho a opção “Importar dados em uma nova tabela” e coloco o nome da tabela como “dados_clima”. A tela de importação ficou da seguinte maneira.
 
-![Janela de importação preenchida](../doc_/imgs_como_usar/importacao_preenchida.png)
+![Janela_de_importacao_preenchida](../doc_/imgs_como_usar/importacao_preenchida.png)
 
 Com os parâmetros preenchidos, basta clicar em “OK”. Irá aparecer a janela abaixo com o status da atualização. A tela se manterá ativa enquanto estiver ocorrendo o processo de importação.
 
-![Status Atualização](../doc_/imgs_como_usar/status_atualizacao.png)
+![Status](../doc_/imgs_como_usar/status_atualizacao.png)
 
 Ao concluir o processo, uma confirmação do processo irá aparecer, basta clicar em “OK”.
 
-![Conclusão](../doc_/imgs_como_usar/conclusao.png)
+![Conclusao](../doc_/imgs_como_usar/conclusao.png)
 
 Pronto, sua tabela já está importada no arquivo Access. 
 
