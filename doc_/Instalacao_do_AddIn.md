@@ -4,7 +4,7 @@
 
 1. **Etapa 1: Obtendo o arquivo:**
     
-    Para realizar a instalação do AddIn, é necessário ter baixado o arquivo chamado “[Import and Update Access.xlam”](https://github.com/ViniPMartins/AddIn-Import-and_Update_Access/blob/main/Arquivos%20Add-In/Importar%20e%20atualizar%20Access%20pt-br.xlam).
+    Para realizar a instalação do AddIn, é necessário ter baixado o arquivo chamado “[Import and Update Access.xlam”](https://github.com/ViniPMartins/AddIn-Import-and_Update_Access/blob/main/arquivos_addin/Importar_e_atualizar_Access_ptbr.xlam).
     
     Com o arquivo baixado, mova-o para a seguinte pasta:
     
