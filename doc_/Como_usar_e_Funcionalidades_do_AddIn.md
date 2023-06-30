@@ -44,7 +44,7 @@ Com a estrutura montada, precisaremos trabalhar inicialmente apenas no arquivo e
 
 Ao abrir o arquivo excel, vá até o ícone onde você colocou o Add-In e clique. A funcionalidade tentará conectar com uma base de dados, porém, ele ainda não sabe a qual base de dados, por isso aparecerá a seguinte mensagem:
 
-![Untitled](imgs_como_usar\iniciar_conexao.png)
+![Untitled](#imgs_como_usar\iniciar_conexao.png)
 
 Para seguir com a conexão, clique em “Sim” e escolha o arquivo access que deseja conectar. Após isso, irá abrir a janela com as funcionalidades de importação.
 
