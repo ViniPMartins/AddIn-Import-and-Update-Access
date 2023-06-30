@@ -8,7 +8,7 @@ O caminho do arquivo Access é gravado como uma propriedade personalizada no exc
 
 Quando realizamos a primeira conexão, onde selecionamos o arquivo access que queremos conectar, o programa grava o caminho do arquivo em uma propriedade personalizada chamada “LinktoAccess”. Após realizar a conexão, é possível ver essa propriedade indo em Arquivo > Informações > Propriedades > Propriedades Avançadas. Na tela, ir na aba Personalizar, e poderemos ver a propriedade gravada nesta planilha:
 
-![LinkToAccess](doc_\imgs_detalhes\LinkToAccess.png)
+![LinkToAccess](doc_/imgs_detalhes/LinkToAccess.png)
 
 Deste modo, quando o programa não encontra essa propriedade, ele irá perguntar se deseja conectar com uma base de dados, como foi é feito no ínicio do procedimento. Uma vez gravado, o programa busca o valor desta propriedade (No caso, o caminho do arquivo access) e tenta realizar a conexão.
 
